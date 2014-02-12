@@ -1,0 +1,1 @@
+to compare scoreA and scoreB we must use '==' and not '='
