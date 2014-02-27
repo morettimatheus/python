@@ -50,29 +50,4 @@ while running:
             print("test")
             #not working. Why?
 
-#the following is just a test
-    key = pygame.key.get_pressed()
-    if key[pygame.K_DOWN]:
-        if o_posy < 500:
-            o_posy += 40
-            screen.blit(o, (o_posx, o_posy))
-            pygame.display.flip()
-
-    if key[pygame.K_RIGHT]:
-        if o_posx < 500:
-                o_posx += 40
-                screen.blit(o, (o_posx, o_posy))
-                pygame.display.flip()
-
-    if key[pygame.K_LEFT]:
-        if o_posx > 100:
-            o_posx -= 40
-            screen.blit(o, (o_posx, o_posy))
-            pygame.display.flip()
-
-    if key[pygame.K_UP]:
-        if o_posy > 100:
-            o_posy -= 40
-            screen.blit(o, (o_posx, o_posy))
-            pygame.display.flip()
 
