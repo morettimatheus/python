@@ -21,3 +21,12 @@ class CashRegister :
    def clear(self) :
       self._itemCount = 0
       self._totalPrice = 0.0
+
+   def getPounds(self):
+       return int(self._totalPrice)
+
+   def giveChange(self, payment):
+       if payment >= self._totalPrice:
+           return payment - self._totalPrice
+       else:
+           return 0
