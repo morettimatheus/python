@@ -26,7 +26,7 @@
       <file leaf-file-name="q1.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/q1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="225">
+            <state line="7" column="0" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -35,12 +35,8 @@
       <file leaf-file-name="q3.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/q3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="19" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="570">
-              <folding>
-                <marker date="1393525690000" expanded="true" signature="20:874" placeholder="..." />
-                <marker date="1393525690000" expanded="true" signature="686:722" placeholder="..." />
-                <marker date="1393525690000" expanded="true" signature="757:874" placeholder="..." />
-              </folding>
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,25 +44,25 @@
       <file leaf-file-name="q3e.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/q3e.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="46" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
+            <state line="9" column="27" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q4.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="q4.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/q4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="25" selection-start="169" selection-end="191" vertical-scroll-proportion="0.08658009" vertical-offset="0" max-vertical-offset="693">
+            <state line="36" column="0" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="630">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q4a.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="q4a.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/q4a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="29" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="660">
+            <state line="38" column="0" selection-start="834" selection-end="834" vertical-scroll-proportion="0.93421054" vertical-offset="144" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
@@ -146,7 +142,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Game" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -411,7 +407,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -441,7 +437,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/q1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+        <state line="3" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
@@ -449,11 +445,7 @@
     <entry file="file://$PROJECT_DIR$/q3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="19" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="570">
-          <folding>
-            <marker date="1393525690000" expanded="true" signature="20:874" placeholder="..." />
-            <marker date="1393525690000" expanded="true" signature="686:722" placeholder="..." />
-            <marker date="1393525690000" expanded="true" signature="757:874" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -485,6 +477,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="19" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q3e.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="46" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="25" selection-start="169" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q4a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="29" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="0" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.83455884" vertical-offset="86" max-vertical-offset="630" />
@@ -495,34 +515,37 @@
         <state line="723" column="8" selection-start="26020" selection-end="26020" vertical-scroll-proportion="0.33272058" vertical-offset="10664" max-vertical-offset="84420" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/q3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="19" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-          <folding>
-            <marker date="1393525690000" expanded="true" signature="20:874" placeholder="..." />
-            <marker date="1393525690000" expanded="true" signature="686:722" placeholder="..." />
-            <marker date="1393525690000" expanded="true" signature="757:874" placeholder="..." />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/q3e.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="46" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q4a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="29" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+        <state line="9" column="27" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/q4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="169" selection-end="191" vertical-scroll-proportion="0.08658009" vertical-offset="0" max-vertical-offset="693">
+        <state line="36" column="0" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q4a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="834" selection-end="834" vertical-scroll-proportion="0.93421054" vertical-offset="144" max-vertical-offset="660">
           <folding />
         </state>
       </provider>
