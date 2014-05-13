@@ -40,9 +40,9 @@ class PrintSign:
 
                         print(gameplay[i][j])
                         pygame.display.update()
-                        if noplays > rows * 2 - 1:
-                            winner = checkVictory(gameplay, rows)
-                            winner.check(gameplay, rows)
+
+                        winner = checkVictory(gameplay, rows)
+                        winner.check(gameplay, rows)
 
 class PrintImage:
     def __init__(self, screen):

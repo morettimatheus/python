@@ -10,21 +10,16 @@ class checkVictory:
         no_noughts = 0
         for i in range(rows):
             for j in range(rows):
-                if gameplay[i][j] == 1: #if the result is a X
+                if gameplay[i][j] == 2: #if the result is a X
                     no_crosses += 1
-                    print("adding 1 to no crosses")
 
-                elif gameplay [i][j] == 2:
+                elif gameplay [i][j] == 1:
                     no_noughts += 1
-                    print("adding 1 to no noughts")
 
-                if no_noughts == rows:
-                    #return noughts
-                    print("O winner")
+            if no_noughts == rows:
+                #return noughts
+                print("O winner")
 
-                elif no_crosses == rows:
-                    print("X winner")
-                    #return crosses
-
-            no_noughts = 0
-            no_crosses = 0
+            elif no_crosses == rows:
+                print("X winner")
+                #return crosses
