@@ -18,6 +18,7 @@ def game():
 
     printing = PrintImage(screen)
     printing.showLogo(screen)
+    printing.showRules(screen)
     printing.showInput1(screen)
 
     while True:
@@ -25,7 +26,6 @@ def game():
             if event.type == pygame.KEYDOWN and event.key == pygame.K_RETURN:
                 plays = 1
                 rows_num = rowInput()
-                printing.showRules(screen)
                 board = Board(rows_num, screen)
                 board.draw(rows_num, screen)
 
@@ -58,9 +58,6 @@ def rowInput ():
             elif event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
                 pygame.quit()
                 sys.exit()
-
-def checkVictory():
-    print("hello")
 
 
 game()
