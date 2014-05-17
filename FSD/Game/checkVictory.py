@@ -2,12 +2,12 @@ from screenprint import *
 from constants import *
 
 def printOwinner():
-    screen = pygame.display.set_mode((WIDTH, HEIGHT))
+    screen = pygame.display.set_mode((WIDTH, HEIGHT)) #constants defined in the constants.py file
     screen.fill(CLOUDCOLOR)
     owinner = pygame.image.load('Images/owinner.png')
     screen.blit(owinner, (0,0))
     pygame.display.update()
-    win = pygame.mixer.Sound('Sounds/win.wav')
+    win = pygame.mixer.Sound('Sounds/win.wav') #let's play a sound showing them the winning message!
     win.play()
 
 def printXwinner():
@@ -21,7 +21,7 @@ def printXwinner():
 
 
 class checkVictory:
-    def __init__(self, gameplay, rows):
+    def __init__(self, gameplay, rows): #constructor of checkVictory class
         self.gameplay = gameplay
         self.rows = rows
 
@@ -43,7 +43,7 @@ class checkVictory:
                 printXwinner()
 
 
-        for i in range (rows): #horizontal line check ##### CANT MANAGE IT TO WORK ####
+        for i in range (rows): #horizontal line check
             no_crosses = 0
             no_noughts = 0
             for j in range(rows):
@@ -81,22 +81,19 @@ class checkVictory:
                     printXwinner()
 
 
-        #no_crosses = 0
-        #no_noughts = 0
-        '''
-        for i in range (rows): #/ diagonal check #####CANT MAKE IT WORK AS WELL #####
-            for j in range(rows):
-                if gameplay[i][((rows-1)-j)] == 2:
-                    no_crosses += 1
+        no_crosses = 0
+        no_noughts = 0
+        for i in range (rows): #/ diagonal check 
+            if gameplay[i][((rows-1)-i)] == 2:
+                no_crosses += 1
 
-                elif gameplay[i][((rows-1)-j)] == 1:
-                    no_noughts += 1
+            elif gameplay[i][((rows-1)-i)] == 1:
+                no_noughts += 1
 
-                if no_noughts == rows:
-                    printOwinner()
+            if no_noughts == rows:
+                printOwinner()
 
-                elif no_crosses == rows:
-                    printXwinner()
-                    '''
+            elif no_crosses == rows:
+                printXwinner()
 
 
